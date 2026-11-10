@@ -1,0 +1,43 @@
+{
+  "checked": "2026-11-10",
+  "program": "https://www.keiseruniversity.edu/programs/information-technology/bachelors-cyber-security/",
+  "campus": "https://www.keiseruniversity.edu/tampa/",
+  "resources": [
+    {
+      "name": "Blackboard",
+      "url": "https://www.keiseruniversity.edu/blackboard-learn/"
+    },
+    {
+      "name": "Student portal",
+      "url": "https://campusportal.keiseruniversity.edu/"
+    },
+    {
+      "name": "Student email",
+      "url": "https://login.microsoftonline.com/"
+    },
+    {
+      "name": "University catalogs",
+      "url": "https://www.keiseruniversity.edu/catalog/"
+    },
+    {
+      "name": "KU library",
+      "url": "https://keiseruniversity.libguides.com/"
+    },
+    {
+      "name": "Writing Studio",
+      "url": "https://www.keiseruniversity.edu/writing-studio/"
+    },
+    {
+      "name": "Student services",
+      "url": "https://www.keiseruniversity.edu/student-services/"
+    },
+    {
+      "name": "Financial services",
+      "url": "https://www.keiseruniversity.edu/financial-services/"
+    },
+    {
+      "name": "Tampa campus",
+      "url": "https://www.keiseruniversity.edu/tampa/"
+    }
+  ]
+}
